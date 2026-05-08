@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CompteurMVVM</string>
+    <string name="label_compteur">Valeur du compteur</string>
+    <string name="btn_augmenter">AUGMENTER</string>
+    <string name="btn_diminuer">DIMINUER</string>
+    <string name="btn_reinitialiser">RÉINITIALISER</string>
+</resources>
