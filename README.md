@@ -79,7 +79,9 @@ Au démarrage, le compteur affiche **0**.
 ---
 
 ## Résultats
+<img width="444" height="817" alt="image" src="https://github.com/user-attachments/assets/66fbfc29-6d80-4936-9cb2-1ab45da57036" />
 
+  
 - Le compteur fonctionne correctement dans les deux sens
 - Aucune perte de données lors de la rotation d'écran
 - L'interface se met à jour automatiquement grâce au mécanisme Observer de LiveData
