@@ -79,7 +79,10 @@ Au démarrage, le compteur affiche **0**.
 ---
 
 ## Résultats
-<img width="444" height="817" alt="image" src="https://github.com/user-attachments/assets/66fbfc29-6d80-4936-9cb2-1ab45da57036" />
+<img width="378" height="820" alt="image" src="https://github.com/user-attachments/assets/ce4203c4-5804-4703-91a3-90b52795283e" />  
+<img width="488" height="226" alt="image" src="https://github.com/user-attachments/assets/b3e55a71-2e60-4ceb-aaf7-c03de3e42895" />
+
+
 
   
 - Le compteur fonctionne correctement dans les deux sens
